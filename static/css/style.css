@@ -253,7 +253,7 @@ main .landing.show-animate .info p {
 }
 main .ocean-section {
   height: 100vh;
-  background: url("../static/media/deep.jpg") no-repeat fixed;
+  background: url("./static/media/deep.jpg") no-repeat fixed;
   background-size: cover;
   position: relative;
 }
