@@ -301,7 +301,7 @@ main {
 
     .ocean-section {
         height: 100vh;
-        background: url('/static/media/deep.jpg') no-repeat fixed;
+        background: url('../media/deep.jpg') no-repeat fixed;
         background-size: cover;
         position: relative;
 
@@ -630,6 +630,7 @@ main {
         position: relative;
         background-image: linear-gradient( 99.9deg, rgba(27,24,31,1) 21.2%, rgba(50,4,89,1) 84.8% );
         z-index: 27;
+        overflow: hidden;
 
         .head {
             padding: 50px 0;
